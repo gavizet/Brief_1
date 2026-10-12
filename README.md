@@ -30,9 +30,13 @@ Ce bloc cherche realiser de bout en bout une app inregrant de l'IA:
 ## Sources
 [Duck Duck Go](https://duckduckgo.com)
 [Offre Emploi Data Engineer Databricks](https://jobs.keyrus.fr/jobs/8041731-data-engineer-h-f-nb) - Montre les reels competences demandes dans le monde professionnel, mais est seulement pertinent pour une entreprise et des techs specifiques
+
 [Profil societe WelcomeToTheJungle](https://www.welcometothejungle.com/fr/companies/keyrus) - Donne une idee des actions, de l'organisation et de la stack technique d'une entreprise specialisee dans la Data. Encore une fois, pertinent pour une entreprise specifique, ne represente pas le marche global.
+
 [Statistiques Utilisation de l'IA](https://www.statista.com/statistics/1401409/popular-ai-uses-in-development-workflow-globally/) - Represente l'utilisation actuelle (2024) et souhaitee de l'IA par les developpeurs. Cela permet de se rendre un peu compte des besoins metiers, mais est aussi biaise car ce ne sont que les donnees pour des developpeurs, et non pas les besoins professionels globaux.
+
 [Resume des differentes 'categories' d'IA](https://www.gomage.com/blog/the-top-11-ai-technologies-you-should-know-about/) -  Donne un resume simple des differentes categories d'IA a ce jour. Permet de se rendre compte de la diversite de l'utilisation de l'IA en dehors du cadre des LLM, mais reste tres haut niveau avec peu de details.
+
 [Techs importantes a connaitre pour un Dev IA](https://www.codestringers.com/articles/the-most-important-technologies-to-learn-for-an-ai-developer) - Liste et concretise les differentes technologies utilisees dans le monde de l'IA.
 
 ## Etude d'entreprise - KEYRUS
