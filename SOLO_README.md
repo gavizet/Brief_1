@@ -95,9 +95,14 @@ Site officiel, presse, offres d'emploi, avis en ligne, sites publics de donnees 
 
 ## Demarches
 Lu les differents liens donnes en ressource, pris des notes dessus.
+
 Regarde en ligne pour obtenir differentes informations pertinentes a notre RNCP: categories d'IA, cas utilisation de l'IA, differentes techs dans les metiers d'IA, profil d'une societe specialisee dans le conseil en Data, offre d'emploi typique pour un Data Engineer dans cette meme entreprise.
+
 Creuse ensuite sur une entreprise en particulier (Keyrus), en utilisant plusieurs ressources : site entreprise, welcometothejungle, avis en ligne sur l'entreprise, linkedin d'entreprise, etc.
+
 Ecrit mon message de demarchage de personnes dans la Data Science. Identifiee via Linkedin plusieurs personnes avec ce profil ou proche. Envoye le message.
 
 ## Message Pro
-This is a test message for now
+Brouillon, edite pour chaque destinataire
+
+```Bonjour [Prénom], alternant Data Engineer chez Keyrus, j’ai découvert votre présentation de [projet] chez [Entreprise]. Quel y a été votre rôle concret ? Et selon vous, quelle compétence un junior devrait-il travailler en priorité ? Merci, bonne journée !```
