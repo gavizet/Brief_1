@@ -28,8 +28,7 @@ Ce bloc cherche realiser de bout en bout une app inregrant de l'IA:
 - Monitorer (documentation, detection et gestion incidents)
 
 ## Sources
-[Duck Duck Go](https://duckduckgo.com)
-[Offre Emploi Data Engineer Databricks](https://jobs.keyrus.fr/jobs/8041731-data-engineer-h-f-nb) - Montre les reels competences demandes dans le monde professionnel, mais est seulement pertinent pour une entreprise et des techs specifiques
+[Offre Emploi Data Engineer Databricks](https://jobs.keyrus.fr/jobs/8041731-data-engineer-h-f-nb) - Montre les reelles competences demandees dans le monde professionnel, mais est seulement pertinent pour une entreprise et des techs specifiques
 
 [Profil societe WelcomeToTheJungle](https://www.welcometothejungle.com/fr/companies/keyrus) - Donne une idee des actions, de l'organisation et de la stack technique d'une entreprise specialisee dans la Data. Encore une fois, pertinent pour une entreprise specifique, ne represente pas le marche global.
 
@@ -49,5 +48,10 @@ Pratiques de travail:
 Points encore incertains:
 
 ## Demarches
+Lu les differents liens donnes en ressource, pris des notes dessus.
+Regarde en ligne pour obtenir differentes informations pertinentes a notre RNCP: categories d'IA, cas utilisation de l'IA, differentes techs dans les metiers d'IA, profil d'une societe specialisee dans le conseil en Data, offre d'emploi typique pour un Data Engineer dans cette meme entreprise.
+Creuse ensuite sur une entreprise en particulier (Keyrus), en utilisant plusieurs ressources : site entreprise, welcometothejungle, avis en ligne sur l'entreprise, linkedin d'entreprise, etc.
+Ecrit mon message de demarchage de personnes dans la Data Science. Identifiee via Linkedin plusieurs personnes avec ce profil ou proche. Envoye le message.
 
 ## Message Pro
+This is a test message for now
